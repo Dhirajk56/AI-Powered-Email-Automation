@@ -11,7 +11,7 @@ The project follows a modular architecture with the following components:
 - **Frontend**: Built using React.js for a responsive and user-friendly interface.
 - **Backend**: Node.js with Express.js to handle API requests and business logic.
 - **Database**: MongoDB for storing user data and email logs.
-- **AI Engine**: A Python-based service using OpenAI's GPT model for generating email content.
+- **AI Engine**: A Python-based service using Gemini 1.5 model for generating email content.
 - **Email Service**: Nodemailer for sending emails via SMTP.
 
 ## AI Implementation
