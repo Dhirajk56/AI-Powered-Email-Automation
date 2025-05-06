@@ -143,4 +143,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, please contact [dhirajkumarchauhan345@gmail@gmail.com].
+For any inquiries, please contact [dhirajkumarchauhan345@gmail.com].
