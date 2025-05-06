@@ -110,7 +110,13 @@ The VBDA 2025 Organizing Committee
    npm start
    ```
 4. Upload the CSV file when prompted.
-5. The application will generate and send emails to all users listed in the file.
+5. Rename template.env to .env and change the value
+  ```
+    GEMINI_API_KEY=apikey
+    EMAIL=Example@gmail.com
+    EMAIL_PASSWORD=16_letter_passcode
+```
+6. The application will generate and send emails to all users listed in the file.
 
 ## Contributing
 
